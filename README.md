@@ -22,3 +22,8 @@ Responsible for creating official modifications for TruckersMP such as map edits
 ![Python-logo-notext svg](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/89a79fbe-2d30-4d05-b85b-8851c3adfac0)
 ![png-clipart-javascript-scalable-graphics-logo-encapsulated-postscript-javascript-icon-text-logo-removebg-preview](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/c81424bc-3203-4f9e-9f60-27cf3c9283ce)
 ![kisspng-node-js-javascript-npm-web-server-source-code-ideil-web-development-5b6d9526e4f434 1087011015339082629378-removebg-preview](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/9249c7e0-ed18-449b-a1cc-4b1d97b9b311)
+
+<img src='[figure/rstudio.png](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/46f43ef8-dbd9-4395-bec4-b29bfd5b60f7)' width='25'>
+<img src='[figure/anaconda.png](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/89a79fbe-2d30-4d05-b85b-8851c3adfac0)https://github.com/3vfi-dev/3vfi-dev/assets/123122023/89a79fbe-2d30-4d05-b85b-8851c3adfac0' width='25'>
+<img src='[figure/jupyterlab.png](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/c81424bc-3203-4f9e-9f60-27cf3c9283ce)https://github.com/3vfi-dev/3vfi-dev/assets/123122023/c81424bc-3203-4f9e-9f60-27cf3c9283ce' width='25'>
+<img src='[[figure/jupyterlab.png](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/c81424bc-3203-4f9e-9f60-27cf3c9283ce)https://github.com/3vfi-dev/3vfi-dev/assets/123122023/c81424bc-3203-4f9e-9f60-27cf3c9283ce](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/9249c7e0-ed18-449b-a1cc-4b1d97b9b311)https://github.com/3vfi-dev/3vfi-dev/assets/123122023/9249c7e0-ed18-449b-a1cc-4b1d97b9b311' width='25'>
