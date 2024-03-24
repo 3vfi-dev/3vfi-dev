@@ -2,8 +2,8 @@
 
   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎  ‎ ‎ If you are here to know a little bit more about me, you're in the right place. Let's start!
 
-  ‎ ‎
-  ‎ [![image](https://github.com/3v-exe/3v-exe/assets/123122023/9b6d6076-8570-4768-8d89-25aa8c119109)](https://media.discordapp.net/attachments/307488652701728769/1105155315432960151/ReplicationFrameworkTruckersMP.png?ex=660ad397&is=65f85e97&hm=d60d126ccedbcf62cfd403b33e2739423e97fc3837ee64292f03390aacd88dc5&=&format=webp&quality=lossless&width=1221&height=687)
+  ‎ 
+  https://cdn.discordapp.com/attachments/1097697420529377380/1221316726679928903/00c6eaf45bbb99f274c59352b36e23b7.png?ex=661222d6&is=65ffadd6&hm=cc5326d4bf0416e68c6a07578cb72f9ee3cd95fcd7440175f90a0050e036590a&
 
   ‎ 
   
