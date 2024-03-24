@@ -9,6 +9,12 @@
  
 <h3 align="center">About me :</h3>
 
+- 🧍‍♂️I am __3v__, but in general the community under the name of *BptisteG*
+
+> I am a discord bot developer in JavaScript
+
+- 🌱 I'm currently learning **DevOps**
+
  
 - 🔭 I am currently working on **[TrcukersMP](https://truckersmp.com/)** as a **ADD-ON Team**.
  
