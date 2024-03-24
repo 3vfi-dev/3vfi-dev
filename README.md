@@ -33,7 +33,9 @@
 <h3 align="center">My Creation to TruckersMP :</h3>
  I created a discord bot for TMP certified for server management, useful for partnerships and others.
  
- ![image](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/dddbf542-a070-486c-9fd7-055328cf53f7)
+> ![image](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/dddbf542-a070-486c-9fd7-055328cf53f7)
+
+![180607121959641503](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/1d5990ea-39fa-47f2-bb3c-802d9a761827)
 
 
 
