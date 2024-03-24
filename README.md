@@ -16,4 +16,4 @@ Responsible for creating official modifications for TruckersMP such as map edits
 
 
 <h3 align="left">Languages and tools :</h3>
-![alt](![ISO_C++_Logo svg](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/6585d79b-1f04-4d28-a496-4e7b1ff56926){: width="50%"}
+<img src="[https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="150" height="280">
