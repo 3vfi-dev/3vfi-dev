@@ -35,13 +35,12 @@
  
 > ![image](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/dddbf542-a070-486c-9fd7-055328cf53f7)
 
-![180607121959641503](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/1d5990ea-39fa-47f2-bb3c-802d9a761827)
 ![6502be3d311e4c591098bb24_header_app_pitches](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/ba07e140-bf89-427d-89a3-8cb4c77f69f3)
 
 ![ECAA2129-5452-4BFD-8ED6-3073C9B5AD68](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/ec3ed798-1365-4ee6-a522-77e71083bdc7)
 
-![image](https://githu![Euro_Truck_Simulator_2_Screenshot_2023 04 10_-_11 00 41 29](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/098be879-451e-4708-97e2-8d6ceeca01be)
-b.com/3vfi-dev/3vfi-dev/assets/123122023/87bd61a5-d4fb-4f72-b554-0ec5e5462af1)
+![Euro_Truck_Simulator_2_Screenshot_2023 04 10_-_11 00 41 29](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/2467d9b2-0936-4f7c-a723-8d802eeed150)
+
 
 ![ets2_20230730_200011_00](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/c8e1ed55-57c2-4b52-8ea3-622290866cbc)
 ![unknown](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/f403fa5f-71eb-4ec1-9195-016a772c6cff)
