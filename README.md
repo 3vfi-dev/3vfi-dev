@@ -35,7 +35,6 @@
  
 > ![image](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/dddbf542-a070-486c-9fd7-055328cf53f7)
 
-![6502be3d311e4c591098bb24_header_app_pitches](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/ba07e140-bf89-427d-89a3-8cb4c77f69f3)
 
 ![ECAA2129-5452-4BFD-8ED6-3073C9B5AD68](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/ec3ed798-1365-4ee6-a522-77e71083bdc7)
 
