@@ -9,7 +9,7 @@
  
 <h3 align="center">About me :</h3>
 
-- 🧍‍♂️I am __3v__, but in general the community under the name of *BptisteG*
+- 🧍‍♂️I am __3v__, but in general the community knows me under the name of *BptisteG*
 
 > I am a discord bot developer in JavaScript
 
