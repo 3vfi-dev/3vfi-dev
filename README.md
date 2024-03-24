@@ -8,12 +8,17 @@
  ![00c6eaf45bbb99f274c59352b36e23b7](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/8fb8117e-b0cd-4ea4-bfc1-8c6c7b7ecd58)
 
  
-- 🔭 Je travaille actuellement sur [ TrcukersMP](https://truckersmp.com/) en tant que Équipe complémentaire.
+- 🔭 I am currently working on [TrcukersMP](https://truckersmp.com/) as a ADD-ON Team.
  
-Responsable de la création de modifications officielles pour TruckersMP telles que des modifications de cartes, des skins, des accessoires et des véhicules.
+Responsible for creating official modifications for TruckersMP such as map edits, skins, accessories and vehicles
 
-- ⚡ Fait amusant **je suis cool**
+- ⚡ Fun fact **I'm cool** yeah lol
 
 
-<h3 align="left">Langages et outils :</h3>
+<h3 align="left">Languages and tools :</h3>
 
+
+![ISO_C++_Logo svg](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/46f43ef8-dbd9-4395-bec4-b29bfd5b60f7)
+![Python-logo-notext svg](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/89a79fbe-2d30-4d05-b85b-8851c3adfac0)
+![png-clipart-javascript-scalable-graphics-logo-encapsulated-postscript-javascript-icon-text-logo-removebg-preview](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/c81424bc-3203-4f9e-9f60-27cf3c9283ce)
+![kisspng-node-js-javascript-npm-web-server-source-code-ideil-web-development-5b6d9526e4f434 1087011015339082629378-removebg-preview](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/9249c7e0-ed18-449b-a1cc-4b1d97b9b311)
