@@ -10,9 +10,12 @@
 # <h3 align="center">About me :</h3>
 
  
-- 🔭 I am currently working on [TrcukersMP](https://truckersmp.com/) as a ADD-ON Team.
+- 🔭 I am currently working on **[TrcukersMP](https://truckersmp.com/)** as a **ADD-ON Team**.
  
-Responsible for creating official modifications for TruckersMP such as map edits, skins, accessories and vehicles
+> Responsible for creating official modifications for TruckersMP such as map edits, skins, accessories and vehicles>
+ 
+-  I am also part of the Bot Ticket tool Support team
+> Join server Support : **[here](https:discord.gg/Tickettool)**
 
 - ⚡ Fun fact **I'm cool** yeah lol
 
