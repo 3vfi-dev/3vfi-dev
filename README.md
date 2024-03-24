@@ -16,7 +16,9 @@ Responsible for creating official modifications for TruckersMP such as map edits
 
 
 <h3 align="left">Languages and tools :</h3>
-![Unofficial_JavaScript_logo_2 svg](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/c20c6a7a-b9fe-4141-b970-015cc25d67c0)
+
+![ISO_C++_Logo svg](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/6d1be5f8-69a8-494b-ad56-cb8b0b1a860b)
+
 
 
 
