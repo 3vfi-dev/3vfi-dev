@@ -2,8 +2,9 @@
 
 
 
-- 🔭 Je travaille actuellement sur [ TrcukersMP](https://truckersmp.com/) en tant que Équipe complémentaire 
-                                                                                                                                                                    Responsable de la création de modifications officielles pour TruckersMP telles que des modifications de cartes, des skins, des accessoires et des véhicules.
+- 🔭 Je travaille actuellement sur [ TrcukersMP](https://truckersmp.com/) en tant que Équipe complémentaire.
+- 
+Responsable de la création de modifications officielles pour TruckersMP telles que des modifications de cartes, des skins, des accessoires et des véhicules.
 
 - ⚡ Fait amusant **je suis cool**
 
