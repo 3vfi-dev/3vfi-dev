@@ -1,19 +1,13 @@
 <h1 align="center">Salut 👋, je suis 3vfi.Developer</h1>
 <h3 align="center">Ce gars est un développeur plutôt cool</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=3vfi-dev&label=Profile%20views&color=0e75b6&style=flat" alt="3vfi-dev" /> </p>
-
-<p align="left"> < a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3vfi-dev" alt ="3vfi-dev" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/bptisteg" target="blank"><img src=" https://img.shields.io/twitter/follow/bptisteg?logo=twitter&style=for-the-badge" alt="bptisteg" /></a> </p>
-
 - 🔭 Je travaille actuellement sur [ TrcukersMP](https://truckersmp.com/)
 
 - 📫 Comment me joindre **bptisteg@gmail.com**
 
 - ⚡ Fait amusant **je suis cool**
 
-<h3 align="left">Connectez-vous avec moi : </h3>
+<h3 align="left">Mes réseaux sociaux : </h3>
 <p align="left">
 <a href="https://twitter.com/bptisteg" target="blank"><img align="center" src="https://raw.githubusercontent .com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bptisteg" height="30" width="40" /></a> <
 a href="https://discord.gg/https://discord.gg/UCC2226Mkt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github -profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/UCC2226Mkt" height="30" width="40" /></a>
