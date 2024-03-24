@@ -2,9 +2,7 @@
 
   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎  ‎ ‎ If you are here to know a little bit more about me, you're in the right place. Let's start!
 
-  ‎ 
-  https://cdn.discordapp.com/attachments/1097697420529377380/1221316726679928903/00c6eaf45bbb99f274c59352b36e23b7.png?ex=661222d6&is=65ffadd6&hm=cc5326d4bf0416e68c6a07578cb72f9ee3cd95fcd7440175f90a0050e036590a&
-
+  ‎ <img align="right" alt="Coding" width="400 src"https://media.tenor.com/VeBQ7RXqA_IAAAAi/wumpus-wave.gif">
   ‎ 
   
 
