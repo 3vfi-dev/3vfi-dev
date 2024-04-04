@@ -22,7 +22,7 @@
 > Responsible for creating official modifications for TruckersMP such as map edits, skins, accessories and vehicles 
  
 -  I am also part of Bot **[Ticket Tool Support Team](https://tickettool.xyz/)**
-> Join server Support : **[here](https:discord.gg/Tickettool)**
+> Join Support server : **[here](https:discord.gg/Tickettool)**
 
 
 ![image](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/ba369309-fbfa-4700-80f8-e8d59cada4b8)
