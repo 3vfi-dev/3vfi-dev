@@ -38,16 +38,19 @@
 > ![image](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/dddbf542-a070-486c-9fd7-055328cf53f7)
 
 <h3 align="center">2024 Easter Egg :</h3> 
+
 ![image](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/11589131-0ab7-4303-ac0e-bc257e9db57d)
 ![image](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/b17e45cf-f711-428b-a13e-cf6c9e1b2274)
 ![image](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/67bacd05-5559-42d7-b039-d7af02727147)
 
 <h3 align="center">2024 Halloween :</h3>
+
 ![image](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/5193ddaa-bebb-4abf-9ff5-1c1cb913fc34)
 ![image](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/1a14ba16-d2ed-490c-a11c-b9da1d20c29c)
 ![image](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/b4ef7f6f-4c93-4fcf-b33b-b4606c96825b)
 
 <h3 align="center">Others event's :</h3>
+
 ![image](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/e9d474fa-e76a-4f17-bd75-817515b62e1a)
 ![image](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/320ffd1a-352a-4411-82a1-7d90987835c0)
 ![ECAA2129-5452-4BFD-8ED6-3073C9B5AD68](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/ec3ed798-1365-4ee6-a522-77e71083bdc7)
