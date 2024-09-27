@@ -1,7 +1,7 @@
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-                        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=001BF7&vCenter=true&random=false&width=460&height=100&lines=Hey+there%F0%9F%91%8B;I+am+3v.Dev." alt="Typing SVG" /></a>
+                        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=001BF7&vCenter=true&random=false&width=460&height=100&lines=Hey+there%F0%9F%91%8B;I+am+3v.Dev" alt="Typing SVG" /></a>
 </a>
 </h3>
 
@@ -54,6 +54,7 @@
 
 <h3 align="center">Others event's :</h3>
 
+https://cdn.discordapp.com/attachments/307488652701728769/1287022398792667156/TruckersMP_Featured_Zone_Conclusion.png?ex=66f7f183&is=66f6a003&hm=533fa37dc519c53ef345c51820dcb674268edf278e025f6be9dbbb346de17ac2&
 ![image](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/e9d474fa-e76a-4f17-bd75-817515b62e1a)
 ![image](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/320ffd1a-352a-4411-82a1-7d90987835c0)
 ![ECAA2129-5452-4BFD-8ED6-3073C9B5AD68](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/ec3ed798-1365-4ee6-a522-77e71083bdc7)
