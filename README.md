@@ -20,26 +20,12 @@
 - 🔭 I am currently working on **[TruckersMP](https://truckersmp.com/)** as a **Add-on Team**.
  
 > Responsible for creating official modifications for TruckersMP such as map edits, skins, accessories and vehicles 
- 
--  I am also part of Bot **[Ticket Tool Support Team](https://tickettool.xyz/)**
-> Join Support server : **[here](https:discord.gg/Tickettool)**
-
-
-![image](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/ba369309-fbfa-4700-80f8-e8d59cada4b8)
-
-
 
 <h3 align="center">Languages and tools :</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,discordjs,idea,nodejs,phpstorm,py,vscode,)](https://skillicons.dev)
 
 <h3 align="center">My Creation to TruckersMP :</h3>
-
-- I created a discord bot for TMP certified for server management, useful for partnerships and others.
-
-
-> ![image](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/dddbf542-a070-486c-9fd7-055328cf53f7)
-
 <h3 align="center">2024 Easter Egg :</h3> 
 
 ![image](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/11589131-0ab7-4303-ac0e-bc257e9db57d)
