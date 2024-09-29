@@ -23,7 +23,7 @@
 
 <h3 align="center">Languages and tools :</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,discordjs,idea,nodejs,phpstorm,py,vscode,)](https://skillicons.dev)
+           [![My Skills](https://skillicons.dev/icons?i=js,discordjs,idea,nodejs,phpstorm,py,vscode,)](https://skillicons.dev)
 
 <h3 align="center">My Creation to TruckersMP :</h3>
 <h3 align="center">2024 Easter Egg :</h3> 
