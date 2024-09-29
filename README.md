@@ -10,9 +10,7 @@
  
 <h3 align="center">About me :</h3>
 
-- 🧍‍♂️I am __3v__, but in general the community knows me under the name of *BptisteG*
-
-> I am a discord bot developer in JavaScript
+- 👋 I am __3v__, I am a discord bot developer in JavaScript, python
 
 - 🌱 I'm currently learning **DevOps**
 
@@ -23,7 +21,7 @@
 
 <h3 align="center">Languages and tools :</h3>
 
-<h3 align="center">[![My Skills](https://skillicons.dev/icons?i=js,discordjs,idea,nodejs,phpstorm,py,vscode,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,discordjs,idea,nodejs,phpstorm,py,vscode,)](https://skillicons.dev)
 
 <h3 align="center">My Creation to TruckersMP :</h3>
 <h3 align="center">2024 Easter Egg :</h3> 
