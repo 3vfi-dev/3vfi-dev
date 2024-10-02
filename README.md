@@ -7,11 +7,10 @@
 > the current information is not continually updated, and some of it may be incorrect
 
 I am 3v, a Discord bot developer skilled in JavaScript, Python, and other fun stuffs, with a passion for writing code, I learning **DevOps** 
-I'm working on **[TruckersMP](https://truckersmp.com/)** as a **Add-on Team** and on **[Ticket tool](https://tickettool.xyz/)** as a **Support Team** 
+I'm working on **[TruckersMP](https://truckersmp.com/)** as a **Add-on Team**.
 
 > Responsible for creating official modifications for TruckersMP such as map edits, skins, accessories.. - *see below more* ⬇️
 
-> I'm in the support team for the bot discord ticket tool and I'm helping you! 😊
 
 - 🔗 My website: [3vWebsite](https://jstrieb.github.io/urlpages/#eyJ2ZXJzaW9uIjoiMC4yLjAiLCJjb21wcmVzc2VkIjpmYWxzZSwiYm9keSI6IlxuPCFET0NUWVBFIGh0bWw+XG48aGVhZD5cbjxzdHlsZT5cblxuPC9zdHlsZT5cbjxzY3JpcHQgdHlwZT1cInRleHQvamF2YXNjcmlwdFwiPlxuXG48L3NjcmlwdD5cbjwvaGVhZD5cbjxib2R5PlxuSGkgISAgICAgICAgaW0gM3YgOilcbjwvYm9keT5cbiJ9) (*not done yet lol*) / [Discord Timestamp](https://r.3v.fi/discord-timestamps/) - *helped by my brother*
 
