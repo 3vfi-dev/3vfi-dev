@@ -2,12 +2,11 @@
 # Hey there! 👋 
  
 <h3 align="center">About me :</h3>
-
-I am 3v, a Discord bot developer skilled in JavaScript, Python, and other fun technologies, with a passion for writing code
-🌱 I learning **DevOps**
-🔭 I'mworking on **[TruckersMP](https://truckersmp.com/)** as a **Add-on Team**.
 > [!NOTE]
-> test
+> the current information is not continually updated, and some of it may be incorrect
+
+I am 3v, a Discord bot developer skilled in JavaScript, Python, and other fun technologies, with a passion for writing code, I learning **DevOps** and I'mworking on **[TruckersMP](https://truckersmp.com/)** as a **Add-on Team**.
+
  
 > Responsible for creating official modifications for TruckersMP such as map edits, skins, accessories and vehicles 
 
