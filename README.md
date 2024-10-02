@@ -1,5 +1,5 @@
 
-# Hey there! 👋 
+## Hey there! 👋 
  
 <h3 align="center">About me :</h3>
 
@@ -13,7 +13,10 @@ I am 3v, a Discord bot developer skilled in JavaScript, Python, and other fun te
 
 - 🔗 My websites: [Discord Timestamp](https://r.3v.fi/discord-timestamps/) - *helped by my brother*
 
-<h3 align="center">Languages and tools :</h3>
+> [!TIP]
+> if you need more information about me or need to contact me, add me on discord - *3v.dev*
+
+<h3 align="center">Languages and Tools :</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,discordjs,idea,nodejs,phpstorm,py,vscode,)](https://skillicons.dev)
 
