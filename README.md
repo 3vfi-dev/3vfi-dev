@@ -6,7 +6,7 @@
 > [!NOTE]
 > the current information is not continually updated, and some of it may be incorrect
 
-I am 3v, a Discord bot developer skilled in JavaScript, Python, and other fun stuff, with a passion for writing code, I learning **DevOps** 
+I am 3v, a Discord bot developer skilled in JavaScript, Python, and other fun stuffs, with a passion for writing code, I learning **DevOps** 
 I'm working on **[TruckersMP](https://truckersmp.com/)** as a **Add-on Team** and on **[Ticket tool](https://tickettool.xyz/)** as a **Support Team** 
 
 > Responsible for creating official modifications for TruckersMP such as map edits, skins, accessories.. - *see below more* ⬇️
