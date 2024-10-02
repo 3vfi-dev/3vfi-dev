@@ -6,10 +6,12 @@
 > [!NOTE]
 > the current information is not continually updated, and some of it may be incorrect
 
-I am 3v, a Discord bot developer skilled in JavaScript, Python, and other fun technologies, with a passion for writing code, I learning **DevOps** and I'mworking on **[TruckersMP](https://truckersmp.com/)** as a **Add-on Team**.
+I am 3v, a Discord bot developer skilled in JavaScript, Python, and other fun technologies, with a passion for writing code, I learning **DevOps** and I'm working on **[TruckersMP](https://truckersmp.com/)** as a **Add-on Team**.
 
  
-> Responsible for creating official modifications for TruckersMP such as map edits, skins, accessories and vehicles 
+> Responsible for creating official modifications for TruckersMP such as map edits, skins, accessories and vehicles.
+
+- 🔗 My websites: [Discord Timestamp](https://r.3v.fi/discord-timestamps/) - *helped by my brother*
 
 <h3 align="center">Languages and tools :</h3>
 
