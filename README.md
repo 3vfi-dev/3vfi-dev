@@ -1,9 +1,5 @@
 
-<h3 align="center">
-  <a href="https://git.io/typing-svg">
-                        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=400&color=001BF7&vCenter=true&random=false&width=460&height=100&lines=Hey+there%F0%9F%91%8B;I+am+3v.Dev" alt="Typing SVG" /></a>
-</a>
-</h3>
+Hey there! 👋 
 
 ![180607121959641503](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/4e111216-4100-42bb-ba0c-210732d388c4)
 > ![00c6eaf45bbb99f274c59352b36e23b7](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/8fb8117e-b0cd-4ea4-bfc1-8c6c7b7ecd58)
