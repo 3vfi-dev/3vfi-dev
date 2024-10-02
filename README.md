@@ -2,6 +2,7 @@
 # Hey there! 👋 
  
 <h3 align="center">About me :</h3>
+
 > [!NOTE]
 > the current information is not continually updated, and some of it may be incorrect
 
