@@ -1,17 +1,13 @@
 
-Hey there! 👋 
-
-![180607121959641503](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/4e111216-4100-42bb-ba0c-210732d388c4)
-> ![00c6eaf45bbb99f274c59352b36e23b7](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/8fb8117e-b0cd-4ea4-bfc1-8c6c7b7ecd58)
+# Hey there! 👋 
  
 <h3 align="center">About me :</h3>
 
-- 👋 I am __3v__, I am a discord bot developer in JavaScript, python
-
-- 🌱 I'm currently learning **DevOps**
-
- 
-- 🔭 I am currently working on **[TruckersMP](https://truckersmp.com/)** as a **Add-on Team**.
+I am 3v, a Discord bot developer skilled in JavaScript, Python, and other fun technologies, with a passion for writing code
+🌱 I learning **DevOps**
+🔭 I'mworking on **[TruckersMP](https://truckersmp.com/)** as a **Add-on Team**.
+> [!NOTE]
+> test
  
 > Responsible for creating official modifications for TruckersMP such as map edits, skins, accessories and vehicles 
 
