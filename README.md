@@ -19,7 +19,7 @@ I'm working on **[TruckersMP](https://truckersmp.com/)** as a **Add-on Team**.
 
 <h3 align="center">Languages and Tools :</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,discordjs,discord,idea,nodejs,phpstorm,webstorm,py,vscode,html,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,discordjs,discord,idea,nodejs,phpstorm,webstorm,py,vscode,html,css)](https://skillicons.dev)
 
 <h3 align="center">My Creation to TruckersMP :</h3>
 <h3 align="center">2024 Easter Egg :</h3> 
