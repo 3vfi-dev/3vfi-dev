@@ -24,7 +24,7 @@ I'm working on **[TruckersMP](https://truckersmp.com/)** as a **Add-on Team**.
 
 [![My Skills](https://skillicons.dev/icons?i=js,discordjs,discord,idea,nodejs,phpstorm,webstorm,py,vscode,html,css)](https://skillicons.dev)
 
-<h3 align="center">My Creation to TruckersMP :</h3>
+<h3 align="center">The creation I made for TruckersMP :</h3>
 <h3 align="center">2024 Easter Egg :</h3> 
 
 ![image](https://github.com/3vfi-dev/3vfi-dev/assets/123122023/11589131-0ab7-4303-ac0e-bc257e9db57d)
