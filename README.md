@@ -4,15 +4,15 @@
 <h3 align="center">About me :</h3>
 
 > [!NOTE]
-> the current information is not continually updated, and some of it may be incorrect
+> Some of the information may be incorrect because it's not updated continuously.
 
-I am 3v, a Discord bot developer skilled in JavaScript, Python, and other fun stuffs, with a passion for writing code, I learning **DevOps** 
+I am 3v, a Discord bot developer in JS, Python, and other fun stuffs, with a passion for writing code, I am learning **DevOps** &
 I'm working on **[TruckersMP](https://truckersmp.com/)** as a **Add-on Team**.
 
-> Responsible for creating official modifications for TruckersMP such as map edits, skins, accessories.. - *see below more* ⬇️
+> Contributing to the creation of official assets such as vehicles, skins and accessories to ensure everything is to a high standard and released bug-free.
 
 
-- 🔗 My website: [3vWebsite](https://3vfi-dev.github.io/) (*not done yet lol*) / [Discord Timestamp](https://r.3v.fi/discord-timestamps/) - *helped by my brother*
+- 🔗 My website: [3vWebsite](https://3vfi-dev.github.io/) / [Discord Timestamp](https://r.3v.fi/discord-timestamps/) 
 
 > [!TIP]
 > if you need more information about me or need to contact me, add me on discord - *3v.dev*
