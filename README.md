@@ -16,7 +16,11 @@ I am 3v, 20 yo, cool, a Discord bot developer in JS, Python, and other fun stuff
 
 <h3 align="center"> 🔗 Website :</h3>
 
-- My website: [3vWebsite](https://3vfi-dev.github.io/) / [Discord Timestamp](https://r.3v.fi/discord-timestamps/) 
+- [3vWebsite](https://3vfi-dev.github.io/)
+> A website I enjoyed creating to introduce myself, much like this page.
+
+- [Discord Timestamp](https://r.3v.fi/discord-timestamps/)
+> A website that allows you to quickly generate a timestamp code of your choice (with help from my brother).
 
 <h3 align="center">Languages and Tools :</h3>
 
