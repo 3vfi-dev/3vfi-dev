@@ -6,10 +6,11 @@
 I am 3v, 20 yo, cool, a Discord bot developer in JS, Python, and other fun stuffs, with a passion for writing code.
 
 <h3 align="center">Work for :</h3>
+
 - [Ticket tool](https://tickettool.xyz/)
 > Technical support to assist people
 
-- [French NAVY 🇫🇷](https://www.defense.gouv.fr/marine)
+- [French NAVY](https://www.defense.gouv.fr/marine)
 > I am a person responsible for supporting the implementation and operational readiness of aircraft as an aviation maintenance operator.
 
 <h3 align="center">Website :</h3>
