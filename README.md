@@ -7,9 +7,6 @@ I am 3v, 20 yo, cool, a Discord bot developer in JS, Python, and other fun stuff
 
 - 🔗 My website: [3vWebsite](https://3vfi-dev.github.io/) / [Discord Timestamp](https://r.3v.fi/discord-timestamps/) 
 
-> [!TIP]
-> if you need more information about me or need to contact me, add me on discord - *3v.dev*
-
 <h3 align="center">Languages and Tools :</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,discordjs,discord,idea,nodejs,phpstorm,webstorm,py,vscode,html,css)](https://skillicons.dev)
