@@ -24,7 +24,7 @@ I am 3v, 20 yo, cool, a Discord bot developer in JS, Python, and other fun stuff
 
 <h3 align="center">Languages and Tools :</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,discordjs,discord,idea,nodejs,phpstorm,webstorm,py,vscode,html,css)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=js,discordjs,discord,idea,nodejs,phpstorm,webstorm,py,vscode,html,css)](https://skillicons.dev)
 
 
 ![snake](https://github.com/user-attachments/assets/319ce804-4f57-4a93-aba2-8f92eb64e52f)
