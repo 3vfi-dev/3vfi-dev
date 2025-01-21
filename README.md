@@ -6,7 +6,7 @@
 I am 3v, 20 yo, cool, a Discord bot developer in JS, Python, and other fun stuffs, with a passion for writing code.
 
 <h3 align="center">Work for :</h3>
-- [Ticket tool]([https://3vfi-dev.github.io/](https://tickettool.xyz/)
+- [Ticket tool](https://tickettool.xyz/)
 > Technical support to assist people
 
 - [French NAVY 🇫🇷](https://www.defense.gouv.fr/marine)
