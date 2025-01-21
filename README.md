@@ -4,7 +4,7 @@
  
 <h3 align="center"> 🙂 About me :</h3>
 
-I am 3v, 20 yo, cool, a Discord bot developer in JS, Python, and other fun stuffs, with a passion for writing code.
+# I am 3v, 20 yo, cool, a Discord bot developer in JS, Python, and other fun stuffs, with a passion for writing code.
 
 <h3 align="center"> 🛠️ Work for :</h3>
 
