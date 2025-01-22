@@ -3,7 +3,7 @@
 
 <h3 align="center"> 🙂 About me :</h3>
 
-### A guy a 20year old, cool Discord bot developer proficient in JS, Python, and other fun stuff, with a strong passion for coding.
+### A guy a 20 year old, cool, Discord bot developer proficient in JS, Python and other fun stuff.. with a strong passion for coding.
 
 <h3 align="center"> 🛠️ Work for :</h3>
 
