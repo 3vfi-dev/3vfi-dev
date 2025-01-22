@@ -1,10 +1,9 @@
 
-# Hey there! 👋 
+# Hey there, I'm 3v! 👋 
 
- 
 <h3 align="center"> 🙂 About me :</h3>
 
-### I am 3v, 20 yo, cool, a Discord bot developer in JS, Python, and other fun stuffs, with a passion for writing code.
+### A guy a 20year old, cool Discord bot developer proficient in JS, Python, and other fun stuff, with a strong passion for coding.
 
 <h3 align="center"> 🛠️ Work for :</h3>
 
