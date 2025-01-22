@@ -1,5 +1,4 @@
-
-# 👋 Hey there, I'm 3v!  
+👋 Hey there, I'm 3v!  
 
 # 🙂 About me :
 
