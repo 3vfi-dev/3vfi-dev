@@ -1,5 +1,5 @@
 
-# Hey there, I'm 3v! 👋 
+# 👋 Hey there, I'm 3v!  
 
 <h3 align="center"> 🙂 About me :</h3>
 
