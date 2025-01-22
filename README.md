@@ -1,11 +1,11 @@
 
 # 👋 Hey there, I'm 3v!  
 
-<h3 align="center"> 🙂 About me :</h3>
+# 🙂 About me :
 
 ### A guy a 20 year old, cool, Discord bot developer proficient in JS, Python and other fun stuff.. with a strong passion for coding.
 
-<h3 align="center"> 🛠️ Work for :</h3>
+# 🛠️ Work for :
 
 - [Ticket tool](https://tickettool.xyz/)
 > Technical support to assist people
@@ -13,7 +13,7 @@
 - [French NAVY](https://www.defense.gouv.fr/marine)
 > I am a person responsible for supporting the implementation and operational readiness of aircraft as an aviation maintenance operator.
 
-<h3 align="center"> 🔗 Website :</h3>
+# 🔗 Website :
 
 - [3vWebsite](https://3vfi-dev.github.io/)
 > A website I enjoyed creating to introduce myself, much like this page.
@@ -21,11 +21,11 @@
 - [Discord Timestamp](https://r.3v.fi/discord-timestamps/)
 > A website that allows you to quickly generate a timestamp code of your choice (with help from my brother).
 
-<h3 align="center"> 😍 Hobies :</h3>
+# 😍 Hobies :
 
 > coding, japan, car, space, navy, gym..
 
-<h3 align="center">Languages and Tools :</h3>
+# Languages and Tools :
 
    [![My Skills](https://skillicons.dev/icons?i=js,discordjs,discord,idea,nodejs,phpstorm,webstorm,py,vscode,html,css)](https://skillicons.dev)
 
