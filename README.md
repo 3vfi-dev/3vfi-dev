@@ -21,6 +21,9 @@
 - [Discord Timestamp](https://r.3v.fi/discord-timestamps/)
 > A website that allows you to quickly generate a timestamp code of your choice (with help from my brother).
 
+<h3 align="center"> 😍 Hobies :</h3>
+> coding, japan, car, space, navy, gym..
+
 <h3 align="center">Languages and Tools :</h3>
 
    [![My Skills](https://skillicons.dev/icons?i=js,discordjs,discord,idea,nodejs,phpstorm,webstorm,py,vscode,html,css)](https://skillicons.dev)
