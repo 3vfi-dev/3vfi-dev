@@ -4,14 +4,6 @@
 
 ### A guy a 20 year old, cool, Discord bot developer proficient in JS, Python and other fun stuff.. with a strong passion for coding.
 
-## 🛠️ Work for :
-
-- [Ticket tool](https://tickettool.xyz/) 
-> Technical support to assist people
-
-- [TruckersMP](https://truckersmp.com/)
-> My brother and me work together behind the scenes to keep our servers and other TruckersMP services online, ensuring everyone stays connected.
-
 ## 🔗 Website :
 
 - [3vWebsite](https://3vfi-dev.github.io/)
