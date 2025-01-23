@@ -9,9 +9,6 @@
 - [Ticket tool](https://tickettool.xyz/)
 > Technical support to assist people
 
-- [French NAVY](https://www.defense.gouv.fr/marine)
-> I am a person responsible for supporting the implementation and operational readiness of aircraft as an aviation maintenance operator.
-
 ## 🔗 Website :
 
 - [3vWebsite](https://3vfi-dev.github.io/)
