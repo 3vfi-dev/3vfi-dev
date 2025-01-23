@@ -1,6 +1,6 @@
 👋 Hey there, I'm 3v!  
 
-## 🙂 About me :
+## 😺 About me :
 
 ### A guy a 20 year old, cool, Discord bot developer proficient in JS, Python and other fun stuff.. with a strong passion for coding.
 
