@@ -12,7 +12,7 @@
 
 ## 😍 Hobies :
 
-> coding, japan, car, space, navy, gym..
+Coding, japan, car, space, navy, gym..
 
 # Languages and Tools :
 
