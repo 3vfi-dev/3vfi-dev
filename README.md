@@ -6,8 +6,11 @@
 
 ## 🛠️ Work for :
 
-- [Ticket tool](https://tickettool.xyz/) ![TT](https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/213584/dark2---rounded.png | 250x250)
+- [Ticket tool](https://tickettool.xyz/) 
 > Technical support to assist people
+
+- [TruckersMP](https://truckersmp.com/)) 
+> My brother and me work together behind the scenes to keep our servers and other TruckersMP services online, ensuring everyone stays connected.
 
 ## 🔗 Website :
 
@@ -23,7 +26,7 @@
 
 # Languages and Tools :
 
-   [![My Skills](https://skillicons.dev/icons?i=js,discordjs,discord,idea,nodejs,phpstorm,webstorm,py,vscode,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,discordjs,discord,idea,nodejs,phpstorm,webstorm,py,vscode,html,css)](https://skillicons.dev)
 
 
 ![snake](https://github.com/user-attachments/assets/319ce804-4f57-4a93-aba2-8f92eb64e52f)
