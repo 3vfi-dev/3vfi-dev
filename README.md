@@ -9,7 +9,7 @@
 - [Ticket tool](https://tickettool.xyz/) 
 > Technical support to assist people
 
-- [TruckersMP](https://truckersmp.com/)) 
+- [TruckersMP](https://truckersmp.com/)
 > My brother and me work together behind the scenes to keep our servers and other TruckersMP services online, ensuring everyone stays connected.
 
 ## 🔗 Website :
