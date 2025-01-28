@@ -16,7 +16,7 @@ Coding, japan, car, space, navy, gym..
 
 # Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=js,discordjs,discord,idea,nodejs,phpstorm,webstorm,py,vscode,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,discordjs,discord,idea,nodejs,phpstorm,webstorm,py,vscode,html,css,cs,cpp,htmx)](https://skillicons.dev)
 
 
 ![snake](https://github.com/user-attachments/assets/319ce804-4f57-4a93-aba2-8f92eb64e52f)
