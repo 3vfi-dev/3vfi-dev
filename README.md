@@ -10,11 +10,11 @@
 - [Discord Timestamp](https://r.3v.fi/discord-timestamps/)
 > A website that allows you to quickly generate a timestamp code of your choice (with help from my brother).
 
-## /* 𝘩𝘰𝘣𝘣𝘪𝘦𝘴 */
+## /* Hobbies */
 
 Coding, japan, car, space, navy, gym..
 
-# Languages and Tools :
+# /* Language and Tools */
 
 [![My Skills](https://skillicons.dev/icons?i=js,discordjs,discord,idea,nodejs,phpstorm,webstorm,py,vscode,html,css,cs,cpp,htmx)](https://skillicons.dev)
 
